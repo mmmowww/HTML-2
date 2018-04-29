@@ -1,0 +1,131 @@
+/*
+Настройка внешнего вида магазина
+*/
+
+.osnova{
+	background : "#b799c7";
+    color:black;
+	font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+.menu{
+	display: inline-block;
+	background: grey;
+	height : 100px;
+	width : 600px;
+	display: flex;
+	justify-content:space-between;
+	
+	}
+.logo{
+	margin-top :25px;
+	margin-left: 25px;
+	background : red;
+	height : 50px;
+	width : 60px;
+	display: inline-block;
+}
+.link{
+	margin-top: 25px;
+	margin-right: 25px;
+	height : 50px;
+	width : 235px;
+	background : green;
+	display: inline-block;
+	}
+.p1{
+	padding:20px;
+	
+}
+
+hr{
+ width : 600px;
+ margin-right: auto;
+}
+/*
+Страничка с контентом
+*/
+.cp{
+	 display:flex;
+}
+.CAKE{
+	background:green;
+	width:600px;
+	height:300px;
+	
+}
+.cake{
+	background:red;
+	width:300px;
+	height:200px;
+	display:inline-block;
+	text-align:center;
+}
+.img{
+ width:200px; 
+ height:100px;
+ background:#b57499;
+ 
+}
+.IMG{
+display:block;
+width:300px; 
+height:200px;
+text-align:center;
+}
+
+.footer{
+background : "#b799c7";
+color : #b799c7;
+width : 600px;
+height: 60px;
+}
+.footer:hover{
+background : white;
+color : red;
+}
+
+.NEkratko{
+	color : #707070;
+	font-size: 14px;
+	font-style:italic;
+	line-height:16px;
+	}
+.osnovaosnova{
+	color:#484343;
+	font-size:16px;
+	font-weight:400px;
+	line-height:24px;
+    background: 9439c4;
+    border: 5px solid #782a87;
+    width : 150px;
+	overflow: hiden;
+}
+.vz:hover:after{
+content:"<<";
+}
+.email{
+background: "#ffc0cb";
+color:red;
+text-transform: uppercase;
+}
+.table{
+
+
+}
+p:first-letter {
+color: red;
+font-style:times new roman;
+}
+.sell{
+	link:green;
+	vlink:yelow;
+	alink:black;
+	background:purple;
+	color:red;
+}
+.sell:hover{
+	background:red;
+	color:blue;
+}

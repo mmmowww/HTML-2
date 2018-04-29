@@ -1,0 +1,49 @@
+/*
+Настройка внешнего вида магазина
+*/
+
+.osnova{
+	background : "#b799c7";
+    color:black;
+	font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;  
+    font-weight: 400;
+}
+/*
+Страничка с контентом
+*/
+.img{
+ width:200px; 
+ height:100px;
+}
+.IMG{
+width:300px; 
+height:200px;
+}
+.IMG:hover{
+border: 5px solid bleack;
+}
+.footer{
+background : "#b799c7";
+color : #b799c7;
+}
+.footer:hover{
+background : white;
+color : red;
+}
+
+.NEkratko{
+	color : #707070;
+	font-size: 14px;
+	font-style:italic;
+	line-height:16px;
+	}
+.osnovaosnova{
+	color:#484343;
+	font-size:16px;
+	font-weight:400;
+	line-height:24px;
+    background: 9439c4;
+    border: 5px solid #782a87;
+    width : 150px;
+}
