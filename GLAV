@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+
+<div class ="MEGA"></div>
+
+<a href = "https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">1</a>
+<a href = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">2</a>
+<a href = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js">3</a>
+
+
+
+
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.5/jquery.mobile.min.js"></script>
+<?php
+
+
+////
+?>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="JS.JS"></script>
+</body>
+</html>
